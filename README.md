@@ -1,5 +1,5 @@
 - 👋 Hi, I’m victor Onyekachi
-- 👀 I’m interested in software developpment, mobile and web-based application creation.
+- 👀 I’m interested in software development, mobile and web-based application creation.
 - 🌱 I’m currently learning cloud programming
 - 💞️ I’m looking to collaborate on  backend projects
 - 📫 How to reach me vhicralph@gmail.com
